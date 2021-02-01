@@ -2,6 +2,9 @@
 pragma solidity ^0.7.0;
 
 
-contract LendingPool {
+
+contract LendingPoolStorage {
+
+    uint256 public testvariable;
 
 }
